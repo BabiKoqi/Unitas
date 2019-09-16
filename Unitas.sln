@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unitas", "Unitas\Unitas.csproj", "{06A8BA14-6BEB-425B-8129-077890A0AF48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unitas.Runtime", "Unitas.Runtime\Unitas.Runtime.csproj", "{430FB771-6EA4-4E3F-88EF-8FC6A128945D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dumper", "Dumper\Dumper.csproj", "{AC4B7EBD-8B44-4A2E-B417-58C230BD5465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06A8BA14-6BEB-425B-8129-077890A0AF48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A8BA14-6BEB-425B-8129-077890A0AF48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A8BA14-6BEB-425B-8129-077890A0AF48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A8BA14-6BEB-425B-8129-077890A0AF48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{430FB771-6EA4-4E3F-88EF-8FC6A128945D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{430FB771-6EA4-4E3F-88EF-8FC6A128945D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{430FB771-6EA4-4E3F-88EF-8FC6A128945D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{430FB771-6EA4-4E3F-88EF-8FC6A128945D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4B7EBD-8B44-4A2E-B417-58C230BD5465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4B7EBD-8B44-4A2E-B417-58C230BD5465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4B7EBD-8B44-4A2E-B417-58C230BD5465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4B7EBD-8B44-4A2E-B417-58C230BD5465}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9304F155-110F-41E8-982C-A33F79C2CB3F}
+	EndGlobalSection
+EndGlobal
